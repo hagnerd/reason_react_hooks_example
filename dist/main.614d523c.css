@@ -1,0 +1,32 @@
+h2 {
+  font-size: 3rem;
+  color: #6ca37c;
+}
+
+.flex {
+  max-width: 500px;
+  margin: 200px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button {
+  color: #474f5c;
+  font-size: 1.4rem;
+  background: none;
+  border: 2px solid #6ca37c;
+  border-radius: 5px;
+  margin: 10px;
+  /* transition: 100ms ease-in-out; */
+  cursor: pointer;
+  padding: 5px 10px;
+}
+
+button:hover {
+  background-color: #6ca37c;
+  color: white;
+}
+
+
+/*# sourceMappingURL=/main.614d523c.css.map */
